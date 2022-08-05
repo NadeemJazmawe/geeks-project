@@ -1,11 +1,16 @@
 # Kubernetes Task
 Please use the following tutorial:
 https://www.geeksforgeeks.org/profile-application-using-python-flask-and-mysql/
+
 0- Collect the Code into Github Repo (Practice Github)
+
 1- Run the application on a Linux server (Practice working with Linux commands)
+
 2- Dockerize the application with Docker and Docker Compose (Practice Docker)
+
 3- Create Jenkinsfile that builds and pushes the Docker images to DockerHub (Practice
 Jenkins)
+
 4- Run the application with Kubernetes over Minikube including Volume and Ingress (Practice
 K8s)
 
