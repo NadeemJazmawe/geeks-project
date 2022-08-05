@@ -1,0 +1,20 @@
+pipeline{
+
+	agent any
+
+	stages {
+		stage('Build') {
+
+			steps {
+				sh 'sudo docker build -t nadeem/geeksproject:latest .'
+			}
+		}
+
+		stage('Push') {
+
+			steps {
+				sh 'sudo docker push nadeem/geeksproject'
+			}
+		}
+	}
+}
