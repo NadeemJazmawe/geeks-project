@@ -18,6 +18,7 @@ K8s)
 # Run localy ##
 
 ##With docker##
+
 **First,** cloning the repository to your machine:
 ```bash
 git clone https://github.com/nadeemjazmawe/geeks-project.git
