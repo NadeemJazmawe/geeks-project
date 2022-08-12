@@ -17,7 +17,7 @@ K8s)
 
 # Run localy ##
 
-##With docker##
+## With docker ##
 
 **First,** cloning the repository to your machine:
 ```bash
